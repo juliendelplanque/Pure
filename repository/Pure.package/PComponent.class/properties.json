@@ -1,0 +1,15 @@
+{
+	"category" : "Pure",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"ncursesWindow",
+		"subComponents" ],
+	"name" : "PComponent",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

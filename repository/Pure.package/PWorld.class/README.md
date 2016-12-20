@@ -1,0 +1,1 @@
+I am the root component that holds all the others components of the terminal.
