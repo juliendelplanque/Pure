@@ -1,0 +1,3 @@
+controlling
+takeTerminalControl
+	self ncursesWindow: NWindow initializeScreen
