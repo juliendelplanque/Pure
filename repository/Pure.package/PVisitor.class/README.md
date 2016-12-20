@@ -1,0 +1,1 @@
+I am an abstract visitor to visit a tree of PComponents.

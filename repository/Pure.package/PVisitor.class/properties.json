@@ -1,0 +1,14 @@
+{
+	"category" : "Pure",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 12/20/2016 23:14",
+	"instvars" : [
+		 ],
+	"name" : "PVisitor",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
