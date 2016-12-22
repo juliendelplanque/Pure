@@ -6,7 +6,7 @@
 		 ],
 	"commentStamp" : "JulienDelplanque 12/20/2016 22:41",
 	"instvars" : [
-		 ],
+		"focusIterator" ],
 	"name" : "PWorld",
 	"pools" : [
 		 ],

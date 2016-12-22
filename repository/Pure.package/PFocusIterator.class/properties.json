@@ -1,0 +1,15 @@
+{
+	"category" : "Pure-Iterators",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 12/22/2016 16:58",
+	"instvars" : [
+		"childrenIndex",
+		"component" ],
+	"name" : "PFocusIterator",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

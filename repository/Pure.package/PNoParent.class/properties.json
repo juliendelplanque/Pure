@@ -1,0 +1,14 @@
+{
+	"category" : "Pure-Errors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PNoParent",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }
