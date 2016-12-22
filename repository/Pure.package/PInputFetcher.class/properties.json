@@ -1,0 +1,14 @@
+{
+	"category" : "Pure-Input",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 12/22/2016 18:43",
+	"instvars" : [
+		 ],
+	"name" : "PInputFetcher",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
