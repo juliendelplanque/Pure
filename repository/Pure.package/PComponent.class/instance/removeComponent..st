@@ -1,3 +1,5 @@
 components - removing
 removeComponent: aPComponent
-	self subComponents remove: aPComponent
+	aPComponent owner: nil.
+	self subComponents remove: aPComponent.
+	aPComponent destroy

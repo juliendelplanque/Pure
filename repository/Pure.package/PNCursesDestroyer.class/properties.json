@@ -4,11 +4,11 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "JulienDelplanque 12/20/2016 23:14",
+	"commentStamp" : "JulienDelplanque 12/21/2016 11:42",
 	"instvars" : [
 		 ],
-	"name" : "PVisitor",
+	"name" : "PNCursesDestroyer",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "PVisitor",
 	"type" : "normal" }

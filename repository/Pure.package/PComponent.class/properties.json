@@ -1,5 +1,5 @@
 {
-	"category" : "Pure",
+	"category" : "Pure-Core",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
@@ -9,7 +9,10 @@
 		"ncursesWindow",
 		"owner",
 		"subComponents",
-		"position" ],
+		"position",
+		"width",
+		"height",
+		"attributes" ],
 	"name" : "PComponent",
 	"pools" : [
 		 ],

@@ -1,13 +1,13 @@
 {
 	"category" : "Pure-Core",
 	"classinstvars" : [
-		"uniqueInstance" ],
+		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "JulienDelplanque 12/20/2016 22:41",
+	"commentStamp" : "JulienDelplanque 12/21/2016 12:01",
 	"instvars" : [
-		 ],
-	"name" : "PWorld",
+		"string" ],
+	"name" : "PString",
 	"pools" : [
 		 ],
 	"super" : "PComponent",

@@ -1,0 +1,1 @@
+I am a visitor that destroy the GUI in the terminal using ncurses.

@@ -1,0 +1,1 @@
+I am a string to be displayed in the terminal.
