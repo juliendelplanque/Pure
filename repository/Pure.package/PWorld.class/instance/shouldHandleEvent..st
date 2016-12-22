@@ -1,3 +1,3 @@
 event handling
 shouldHandleEvent: aPEvent
-	^ { $h . $j . $k . $l } includes: aPEvent character
+	^ { 260 . 259 . 261 . 258 } includes: aPEvent character codePoint

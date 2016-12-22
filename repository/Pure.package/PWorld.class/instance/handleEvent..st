@@ -1,18 +1,18 @@
 event handling
 handleEvent: aPEvent
-	aPEvent character = $l
+	aPEvent character codePoint = 261
 		ifTrue: [ 
 			PWorld uniqueInstance focusIterator next ].
-	aPEvent character = $h
+	aPEvent character codePoint = 260
 		ifTrue: [ 
 			PWorld uniqueInstance focusIterator previous ].
-	aPEvent character = $k
+	aPEvent character codePoint = 259
 		ifTrue: [ 
 			PWorld uniqueInstance focusIterator hasParent
 				ifTrue: [ 
 					PWorld uniqueInstance focusIterator
 						parent ] ].
-	aPEvent character = $j
+	aPEvent character codePoint = 258
 		ifTrue: [ 
 			PWorld uniqueInstance focusIterator hasChildren
 				ifTrue: [ 
