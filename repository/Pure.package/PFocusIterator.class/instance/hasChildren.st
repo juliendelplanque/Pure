@@ -1,3 +1,3 @@
 testing
 hasChildren
-	^ self current focusComponents size isNotEmpty
+	^ self current focusComponents isNotEmpty

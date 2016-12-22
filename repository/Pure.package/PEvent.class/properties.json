@@ -1,0 +1,14 @@
+{
+	"category" : "Pure-Input",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 12/22/2016 20:05",
+	"instvars" : [
+		"character" ],
+	"name" : "PEvent",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

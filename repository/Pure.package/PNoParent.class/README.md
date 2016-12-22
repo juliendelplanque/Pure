@@ -1,0 +1,1 @@
+I am the error raised by PIterator when a component has no parent.
