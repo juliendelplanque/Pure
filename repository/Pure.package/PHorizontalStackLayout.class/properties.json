@@ -1,0 +1,14 @@
+{
+	"category" : "Pure-Layouts",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 12/23/2016 22:14",
+	"instvars" : [
+		 ],
+	"name" : "PHorizontalStackLayout",
+	"pools" : [
+		 ],
+	"super" : "PLayout",
+	"type" : "normal" }

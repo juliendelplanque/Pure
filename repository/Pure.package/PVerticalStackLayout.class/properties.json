@@ -1,0 +1,14 @@
+{
+	"category" : "Pure-Layouts",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 12/23/2016 22:34",
+	"instvars" : [
+		 ],
+	"name" : "PVerticalStackLayout",
+	"pools" : [
+		 ],
+	"super" : "PLayout",
+	"type" : "normal" }

@@ -1,0 +1,1 @@
+I stack subcomponents vertically.
