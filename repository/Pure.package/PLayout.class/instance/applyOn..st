@@ -1,0 +1,3 @@
+layouting
+applyOn: aPComponent
+	self subclassResponsibility

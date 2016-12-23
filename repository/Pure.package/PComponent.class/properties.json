@@ -13,7 +13,8 @@
 		"width",
 		"height",
 		"attributes",
-		"focusComponents" ],
+		"focusComponents",
+		"layout" ],
 	"name" : "PComponent",
 	"pools" : [
 		 ],

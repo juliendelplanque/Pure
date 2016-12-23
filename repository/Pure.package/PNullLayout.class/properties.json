@@ -1,0 +1,14 @@
+{
+	"category" : "Pure-Layouts",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 12/23/2016 21:50",
+	"instvars" : [
+		 ],
+	"name" : "PNullLayout",
+	"pools" : [
+		 ],
+	"super" : "PLayout",
+	"type" : "normal" }

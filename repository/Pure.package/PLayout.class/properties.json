@@ -1,0 +1,14 @@
+{
+	"category" : "Pure-Layouts",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 12/23/2016 21:43",
+	"instvars" : [
+		 ],
+	"name" : "PLayout",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
