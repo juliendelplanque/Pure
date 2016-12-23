@@ -1,5 +1,5 @@
 focus
 releaseFocus
 	self
-		removeAllAttributes;
+		removeAttribute: PAttribute reverse;
 		build

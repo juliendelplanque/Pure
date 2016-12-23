@@ -4,4 +4,5 @@ clearAndDeleteNWindowIfNotNil: aPComponent
 		ifNotNil: [ 
 			aPComponent ncursesWindow
 				clear;
-				delete ].
+				refresh;
+				delete ]

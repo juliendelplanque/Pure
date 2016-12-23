@@ -1,5 +1,5 @@
 focus
 takeFocus
 	self
-		addAttribute: NAttribute bold;
+		addAttribute: PAttribute reverse;
 		build

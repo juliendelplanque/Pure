@@ -5,7 +5,6 @@ visitPString: aPString
 		visitPComponent: aPString.
 	
 	aPString string lines doWithIndex: [ :line :lineIndex |
-		Transcript show: lineIndex; show: '-'.
 		lineIndex <= aPString height
 			ifTrue: [ 
 				line doWithIndex: [ :char :charIndex |

@@ -1,3 +1,3 @@
 attributes - removing
 removeAllAttributes
-	self attributes: OrderedCollection new
+	self attributes: PAttribute normal

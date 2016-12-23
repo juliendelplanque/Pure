@@ -1,3 +1,3 @@
 attributes - removing
 removeAttribute: aNAttribute
-	self attributes remove aNAttribute
+	self attributes remove: aNAttribute

@@ -7,4 +7,4 @@ initialize
 		position: 0@0;
 		height: 5;
 		width: 5;
-		attributes: OrderedCollection new
+		attributes: PAttribute normal

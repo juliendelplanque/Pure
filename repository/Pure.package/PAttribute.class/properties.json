@@ -1,0 +1,14 @@
+{
+	"category" : "Pure-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 12/20/2016 21:42",
+	"instvars" : [
+		"value" ],
+	"name" : "PAttribute",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

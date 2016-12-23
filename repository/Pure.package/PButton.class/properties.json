@@ -1,0 +1,14 @@
+{
+	"category" : "Pure-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"actionBlock" ],
+	"name" : "PButton",
+	"pools" : [
+		 ],
+	"super" : "PString",
+	"type" : "normal" }

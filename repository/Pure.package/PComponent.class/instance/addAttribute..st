@@ -1,3 +1,3 @@
 attributes - adding
 addAttribute: aNAttribute
-	self attributes add: aNAttribute
+	self attributes: self attributes | aNAttribute
